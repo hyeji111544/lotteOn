@@ -1,5 +1,5 @@
 # LotteON 쇼핑몰 프로젝트
-![그림1](https://github.com/hyeji111544/lotteOn/assets/154953972/0692d32c-df84-4696-9829-b0bf82b26d65)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=LotteOn&fontAlign=70&rotate=13&fontAlignY=25&desc=make%20Shoppingmall%20Project.&descAlign=60&descAlignY=44)
 
 ## 프로젝트 개요
 
@@ -150,6 +150,8 @@
 
 
 ## 프로젝트 버전 업데이트 내역
+<details>
+<summary>상세보기</summary>
 0.0.1-SNAPSHOT / 24.04.15
  - 메인 화면 구현
  - 프로젝트 페이지 CSS 디자인 작업
@@ -241,3 +243,5 @@
 
 1.0.0-RELEASE / 24.05.17
  - 최종 배포
+
+</details>
